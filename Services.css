@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0;
+    background-color: #3d4653;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: #C99846;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1:hover {
+    color: #C99846;
+    transform: translateY(-5px);
+}
